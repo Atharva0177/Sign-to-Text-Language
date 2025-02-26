@@ -1,0 +1,44 @@
+name: capstone
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.7
+  - openssl=3.4.0
+  - pip=25.0
+  - setuptools=75.8.0
+  - wheel=0.45.1
+  - numpy=1.26.4
+  - scipy=1.15.1
+  - scikit-learn=1.6.1
+  - seaborn=0.13.2
+  - matplotlib=3.10.0
+  - pandas
+  #- opencv-contrib-python=4.11.0.86
+  - flask=3.1.0
+  - flask-socketio=5.5.1
+  #- mediapipe==0.10.7
+  - nltk
+  - jupyter
+  - jupyterlab
+  - notebook
+  - lightgbm=4.6.0
+  - pip:
+      - absl-py==2.1.0
+      - googletrans==4.0.2
+      - gtts==2.5.4
+      - opencv-contrib-python==4.11.0.86
+      - mediapipe==0.10.7
+      - sounddevice==0.5.1
+      - pyttsx3==2.98
+      - imbalanced-learn==0.13.0
+      - protobuf==3.19.6
+      - websocket-client==1.8.0
+      - werkzeug==3.1.3
+      - pyspellchecker==0.8.2
+      - tensorflow==2.10.0
+      - tensorflow-estimator==2.10.0
+      - tensorboard==2.10.1
+      - jax==0.5.0
+      - jaxlib==0.5.0
+prefix: C:\Users\Lenovo\miniconda3\envs\capstone
