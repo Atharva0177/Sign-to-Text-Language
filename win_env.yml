@@ -28,7 +28,7 @@ dependencies:
       - googletrans==4.0.2
       - gtts==2.5.4
       - opencv-contrib-python==4.11.0.86
-      - mediapipe==0.10.7
+      - mediapipe==0.10.11
       - sounddevice==0.5.1
       - pyttsx3==2.98
       - imbalanced-learn==0.13.0
