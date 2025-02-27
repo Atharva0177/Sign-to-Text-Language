@@ -87,7 +87,7 @@ Markdown==3.7
 MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
-mediapipe==0.10.7
+mediapipe==0.10.11
 mistune==3.1.1
 ml_dtypes==0.5.1
 nbclient==0.10.2
@@ -113,7 +113,7 @@ pillow==11.1.0
 platformdirs==4.3.6
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
-protobuf==3.19.6
+protobuf==3.20.3
 psutil==6.1.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -155,8 +155,8 @@ tensorboard==2.10.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.10.0
-tensorflow-estimator==2.10.0
-tensorflow-io-gcs-filesystem==0.37.1
+#tensorflow-estimator==2.10.0
+#tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.5.0
 terminado==0.18.1
 threadpoolctl==3.5.0
